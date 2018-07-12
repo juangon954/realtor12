@@ -1,0 +1,2 @@
+
+To get the slider to work,you need to push site online or on your localhost or brackets HTML editor !
